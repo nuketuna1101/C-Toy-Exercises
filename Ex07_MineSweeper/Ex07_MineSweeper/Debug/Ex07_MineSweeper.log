@@ -1,0 +1,5 @@
+﻿  Ex07_MineSweeper.c
+C:\Users\ghj45\source\repos\Ex07_MineSweeper\Ex07_MineSweeper\Ex07_MineSweeper.c(77,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ghj45\source\repos\Ex07_MineSweeper\Ex07_MineSweeper\Ex07_MineSweeper.c(100,38): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\ghj45\source\repos\Ex07_MineSweeper\Ex07_MineSweeper\Ex07_MineSweeper.c(76,6): warning C4101: 'q' :참조되지 않은 지역 변수입니다.
+  Ex07_MineSweeper.vcxproj -> C:\Users\ghj45\source\repos\Ex07_MineSweeper\Debug\Ex07_MineSweeper.exe
